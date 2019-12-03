@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Jun 06 22:20:24 JST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-016b-2cf2-97a5-000074533018 
+on database directory /home/student/s1250050/Introduction_to_Software_Engineering/se1ex12/SE1ex12DB with class loader sun.misc.Launcher$AppClassLoader@659e0bfd 
+Loaded from file:/home/student/s1250050/Introduction_to_Software_Engineering/se1ex12/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_201-b09
+user.dir=/home/student/s1250050/Introduction_to_Software_Engineering/se1ex12
+os.name=SunOS
+os.arch=amd64
+os.version=5.11
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
